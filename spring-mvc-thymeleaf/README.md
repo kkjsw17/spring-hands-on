@@ -3,4 +3,5 @@
     - Platform: Inflearn
     - Author: 김영한
 # Summary
-- Thymeleaf의 상세 문법에 대해 학습한다.
+- Thymeleaf의 다양한 문법에 대해 학습한다.
+- Thymeleaf로 Fragment, Layout을 구성하는 방법에 대해 학습한다. 
